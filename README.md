@@ -1,81 +1,98 @@
 <h1 align="center">Hi 👋, I'm Mathushana Manokaran</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
+<p align="center">
+  <i>Building modern, responsive, and scalable web applications 🚀</i>
+</p>
 
 ---
 
 ### 🌱 About Me
-- 💻 Full-Stack Developer with expertise in **Next.js, React, Vue, Node.js, PHP, Laravel, MySQL, MongoDB, AWS, Docker**  
-- 🌱 Currently learning **AWS Amplify (Lambda, DynamoDB, AppSync), GraphQL, Microservices, CI/CD pipelines, Advanced Next.js Patterns**  
-- 🎯 Strong focus on building **modern, responsive, and scalable web applications**  
-- ⚡ Fun fact: I think I’m funny 😄 and love building personal projects  
+- 💻 Full-Stack Developer | Next.js, React, Vue.js, Node.js, PHP, Laravel, MySQL, MongoDB  
+- 🌱 Currently learning **AWS Amplify (Lambda, DynamoDB, AppSync), GraphQL, Microservices, CI/CD pipelines, serverless architectures**  
+- ⚡ Fun fact: I enjoy solving complex problems and building efficient web apps  
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Skills
 
-#### **Frontend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/>
+<p align="center">
+<b>Frontend:</b><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap&theme=dark&perline=10" />
+</a>
 </p>
 
-#### **Backend**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40"/>
+<p align="center">
+<b>Backend:</b><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,mysql,mongodb&theme=dark&perline=10" />
+</a>
 </p>
 
-#### **DevOps / Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+<p align="center">
+<b>Cloud & DevOps:</b><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,git,github,linux,figma&theme=dark&perline=10" />
+</a>
 </p>
 
+---
+
+### 💻 Projects
+<!--
+| Project | Tech Stack | Status | Description |
+|---------|------------|--------|-------------|
+| **Personal Portfolio** | ![Next.js](https://img.shields.io/badge/Next.js-React-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-TailwindCSS-teal) | In Progress | Showcases my projects and skills |
+| **Mini E-Commerce App** | ![Next.js](https://img.shields.io/badge/Next.js-React-blue) ![Stripe](https://img.shields.io/badge/Stripe-Payments-purple) | In Progress | Personal project with Next.js & Tailwind |
+| **Task Manager App** | ![React](https://img.shields.io/badge/React-NodeJS-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green) | In Progress | Personal task tracking app |
+-->
+
+---
 
 ### 📚 Learning & Goals
-- 🔹 Mastering **Next.js & React advanced patterns**  
-- 🔹 Building **serverless applications** with AWS Amplify, Lambda, DynamoDB, and AppSync  
-- 🔹 Learning **GraphQL API design**  
-- 🔹 Improving **CI/CD & deployment pipelines**  
-
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/mathushana-manokaran" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/mathushana03" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,dynamodb,graphql,nextjs,react,nodejs,ts,js,tailwind,shadcn&theme=dark&perline=10" />
+</a>
 </p>
+
+- 🔹 **Mastering Next.js & React advanced patterns** for high-performance web apps  
+- 🔹 **Building serverless applications** using AWS Amplify, Lambda, DynamoDB, AppSync & EventBridge  
+- 🔹 **Designing and consuming GraphQL APIs** efficiently  
+- 🔹 **Implementing CI/CD pipelines** for automated deployments and testing  
+- 🔹 Learning **microservices architecture** for scalable and maintainable backend systems  
+- 🔹 Improving **performance optimization, security, and clean code practices**  
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathushana03&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathushana03&show_icons=true&theme=radical&hide=prs" alt="GitHub Stats"/>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathushana03&theme=radical" alt="GitHub Streak"/>
 </p>
+
+### 🏆 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathushana03&layout=compact&theme=radical" alt="Top Languages"/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,mongodb,aws,lambda,dynamodb&theme=dark&perline=10" />
+</a>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/mathushana-manokaran" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mathushana-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/mathushana03" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-mathushana03-black?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:mathushana03@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-Mathushana-red?style=for-the-badge&logo=gmail" />
+</a>
 </p>
 
 ---
@@ -89,4 +106,4 @@
 
 ### 💼 Hire Me
 If you’re looking for a **full-stack developer** to build modern web applications, feel free to reach out!  
-📧 Email: **mathushana03@gmail.com**  
+📧 Email: **mathushana03@gmail.com**
