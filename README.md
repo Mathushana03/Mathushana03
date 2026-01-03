@@ -38,8 +38,9 @@
 
 ---
 
-### 💻 Projects
+
 <!--
+### 💻 Projects
 | Project | Tech Stack | Status | Description |
 |---------|------------|--------|-------------|
 | **Personal Portfolio** | ![Next.js](https://img.shields.io/badge/Next.js-React-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-TailwindCSS-teal) | In Progress | Showcases my projects and skills |
